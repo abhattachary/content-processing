@@ -136,6 +136,9 @@
     "outputFilePath": {
       "type": "string"
     },
+    "isPluginInstalled": {
+      "type": "boolean"
+    },
     "clientSession": {
       "type": "object",
       "properties": {
